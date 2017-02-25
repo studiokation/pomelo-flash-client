@@ -1,2 +1,3 @@
 # pomelo-flash-client
-Pomelo framework Flash client
+
+Flash client library for Pomelo framework.
